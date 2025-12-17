@@ -1,0 +1,7 @@
+cohere
+fastapi
+openai-agents
+python-dotenv
+qdrant-client
+requests
+trafilatura
